@@ -1,0 +1,43 @@
+Bil Creation: name amount location (attachment)---table Bill (id)
+Adding Friends: User Creation Module---tables-friends
+Bill Processing : Who? How much? No:people table - Bill Processin
+
+Sending email to each friends
+
+
+SPLITTER
+
+main-user login
+add bill - amount, friends , build location , photo ,attachment
+Adding Friends - friends , name
+Add 
+
+mysql-django installation and integration
+Django -learning
+
+Bill Module -2
+User Module - 1
+Transaction - 1 week
+
+--------------------------basic
+
+usercreation
+bill creation
+---------------------3 days
+
+transaction ----------------3days
+
+Friends login view ans=d intergration
+friends
+
+django extra users
+
+
+Activities table-------each user each table
+
+
+
+APPLICATIONS:
+---------------
+BOOTSTRAP
+DJANGO
